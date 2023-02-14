@@ -1,4 +1,4 @@
-# Fairmoney: case study
+# Credit: case study
 
 This repository contains two data files:
 - credit.csv: main data for the modeling assignment.
